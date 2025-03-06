@@ -51,6 +51,4 @@ http://localhost:5068
 - E-posta: admin@example.com
 - Şifre: Admin123!
 
-## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın. 
